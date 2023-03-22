@@ -1,0 +1,28 @@
+{
+  "name": "goit-js-hw-09",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "parcel src/*.html",
+    "build": "parcel build src/*.html --public-url /goit-js-hw-09/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yulka-pulka/goit-js-hw-09.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yulka-pulka/goit-js-hw-09/issues"
+  },
+  "homepage": "https://github.com/yulka-pulka/goit-js-hw-09#readme",
+  "devDependencies": {
+    "parcel": "^2.8.3",
+    "parcel-reporter-clean-dist": "^1.0.4"
+  },
+  "dependencies": {
+    "flatpickr": "^4.6.13",
+    "notiflix": "^3.2.6"
+  }
+}
